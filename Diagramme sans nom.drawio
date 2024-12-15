@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="OAdOA_UvlIZ6axQzJkBe">
+    <mxGraphModel dx="1348" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTLMk_r2gnErtUBBn6q5-1" target="QTLMk_r2gnErtUBBn6q5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;System Administration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Users Management&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="280" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;to know the kernel version&amp;nbsp; : uname -r&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-10" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;to know wich distribution :&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;cat /etc/issue&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="60" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QTLMk_r2gnErtUBBn6q5-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CRUD&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="390" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
